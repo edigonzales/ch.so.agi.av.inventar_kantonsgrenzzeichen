@@ -1,0 +1,1 @@
+# ch.so.agi.av.inventar_kantonsgrenzzeichen
